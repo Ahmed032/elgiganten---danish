@@ -1,0 +1,852 @@
+{
+  "data": {
+    "product": {
+      "_id": "361902",
+      "articleNumber": "361902",
+      "productType": null,
+      "serviceType": null,
+      "isService": false,
+      "isStandaloneService": false,
+      "serviceLowestPrice": null,
+      "articleType": "ZHAW",
+      "shortDescription": "iPhone 13 mini smartphone tilbyder kraftfulde funktioner i en lille formfaktor i aluminium og glas. F\u00e5 gl\u00e6de af A15 Bionic processoren med 5G dataforbindelsessupport, og tag professionelle billeder og videoer med 12 MP dual kameraet.",
+      "onlineSalesStatus": "ACT",
+      "keySpecs": null,
+      "punchline": null,
+      "bulletpoints": [
+        "5,4\u201c Super Retina XDR sk\u00e6rm",
+        "12MP Wide + 12MP Ultra Wide-kamera",
+        "Kraftfuld A15 Bionic CPU med 5G"
+      ],
+      "primaryFeatureIconUrl": null,
+      "numberOfReviews": 42,
+      "averageRating": 4.8,
+      "title": "iPhone 13 mini \u2013 5G smartphone 128GB Midnight",
+      "productPageUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltelefon/iphone-13-mini-5g-smartphone-128gb-midnight/361902",
+      "productURL": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltelefon/iphone-13-mini-5g-smartphone-128gb-midnight/361902",
+      "productURLB2B": null,
+      "seoNoIndex": false,
+      "imageFullUrl": "https://www.elgiganten.dk/image/dv_web_D180001002838420/361902/iphone-13-mini-5g-smartphone-128gb-midnight.jpg",
+      "energyArrowSvg": null,
+      "energyLabelUrl": null,
+      "manufacturerArticleNumber": "MLK03QN/A",
+      "gtin": "0194252689639",
+      "brand": {
+        "id": "498",
+        "name": "Apple",
+        "logoUrl": "https://www.elgiganten.dk/image/DV_PNG_NOCLIP_D1800012542601/brand/apple.png",
+        "url": "/brand/apple",
+        "__typename": "Brand"
+      },
+      "productTaxonomy": [
+        {
+          "id": "PT101",
+          "name": "Mobil, Tablet & Smartwatch",
+          "path": "mobil-tablet-smartwatch",
+          "__typename": "ProductTaxonomy"
+        },
+        {
+          "id": "PT238",
+          "name": "Mobiltelefon",
+          "path": "mobil-tablet-smartwatch/mobiltelefon",
+          "__typename": "ProductTaxonomy"
+        }
+      ],
+      "defaultMenuStructure": null,
+      "beforePrice": null,
+      "presaleDate": "2021-09-17T00:00:00Z",
+      "releaseDate": "2021-09-24T00:00:00Z",
+      "images": [
+        "https://www.elgiganten.dk/image/dv_web_D180001002838420/361902/iphone-13-mini-5g-smartphone-128gb-midnight.jpg",
+        "https://www.elgiganten.dk/image/dv_web_D180001002838527/361902/iphone-13-mini-5g-smartphone-128gb-midnight.jpg",
+        "https://www.elgiganten.dk/image/dv_web_D180001002838419/361902/iphone-13-mini-5g-smartphone-128gb-midnight.jpg",
+        "https://www.elgiganten.dk/image/dv_web_D180001002838526/361902/iphone-13-mini-5g-smartphone-128gb-midnight.jpg",
+        "https://www.elgiganten.dk/image/dv_web_D180001002838453/361902/iphone-13-mini-5g-smartphone-128gb-midnight.jpg",
+        "https://www.elgiganten.dk/image/dv_web_D1800012547154/361902/iphone-13-mini-5g-smartphone-128gb-midnight.jpg",
+        "https://www.elgiganten.dk/image/dv_web_D1800012547155/361902/iphone-13-mini-5g-smartphone-128gb-midnight.jpg",
+        "https://www.elgiganten.dk/image/dv_web_D1800012547156/361902/iphone-13-mini-5g-smartphone-128gb-midnight.jpg",
+        "https://www.elgiganten.dk/image/dv_web_D1800012547157/361902/iphone-13-mini-5g-smartphone-128gb-midnight.jpg",
+        "https://www.elgiganten.dk/image/dv_web_D180001002858131/361902/iphone-13-mini-5g-smartphone-128gb-midnight.jpg"
+      ],
+      "videos": [
+        "https://www.elgiganten.dk/video/DV_Vid_D180001254522/361902/iphone-13-mini-5g-smartphone-128gb-midnight.mp4"
+      ],
+      "bGrade": null,
+      "bGradeTitle": null,
+      "mandatoryServices": [],
+      "bundleItemData": null,
+      "cgm": "43116",
+      "buyableOnline": true,
+      "buyableInternet": true,
+      "buyableCollectAtStore": true,
+      "__typename": "Product",
+      "promotions": [],
+      "promotionBundles": [
+        {
+          "type": "BUNDLE",
+          "description": "Husk et cover til din Iphone ",
+          "iconUrl": "https://www.elgiganten.dk/content/DK/img/husk-tilbehor-281021-1dk.png",
+          "badgeUrl": "https://www.elgiganten.dk/content/DK/img/husk-tilbehor-281021-1dk.png",
+          "blockImageUrl": "https://www.elgiganten.dk/image/dv_web_D180001002835855/361978/iphone-13-mini-gennemsigtigt-cover-med-magsafe--pdp_zoom-3000--pdp_main-540.jpg",
+          "blockLinkUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltilbehor/mobilcovers/iphone-13-mini-gennemsigtigt-cover-med-magsafe/361978",
+          "cmsPageUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltilbehor/mobilcovers/iphone-13-mini-gennemsigtigt-cover-med-magsafe/361978",
+          "blockHeadline": "Husk et cover til din Iphone ",
+          "code": "DK_TELE_PROMOTION_361978_Iphone_13_mini",
+          "bundlePrices": {
+            "bundlePriceBefore": {
+              "value": 343.2,
+              "valueExVat": 274.56,
+              "currency": "DKK",
+              "__typename": "Price"
+            },
+            "bundlePriceAfter": {
+              "value": 343.2,
+              "valueExVat": 274.56,
+              "currency": "DKK",
+              "__typename": "Price"
+            },
+            "bundleSaving": {
+              "value": 0,
+              "valueExVat": 0,
+              "currency": "DKK",
+              "__typename": "Price"
+            },
+            "bundleProductPrices": [
+              {
+                "articleNumber": "361978",
+                "activePricing": {
+                  "value": 343.2,
+                  "valueExVat": 274.56,
+                  "currency": "DKK",
+                  "__typename": "Price"
+                },
+                "beforePricing": {
+                  "value": 343.2,
+                  "valueExVat": 274.56,
+                  "currency": "DKK",
+                  "__typename": "Price"
+                },
+                "savePricing": {
+                  "value": 0,
+                  "valueExVat": 0,
+                  "currency": "DKK",
+                  "__typename": "Price"
+                },
+                "value": null,
+                "type": "",
+                "__typename": "BundleProductPrice"
+              }
+            ],
+            "__typename": "BundlePrices"
+          },
+          "conditionData": {
+            "articles": [
+              "361978"
+            ],
+            "categories": [
+              "promo-DK-telecom-Iphone-13-mini"
+            ],
+            "products": [
+              {
+                "title": "iPhone 13 Mini gennemsigtigt cover med MagSafe",
+                "articleNumber": "361978",
+                "articleType": "ZHAW",
+                "beforePricing": {
+                  "value": 429,
+                  "valueExVat": 343.2,
+                  "__typename": "Price"
+                },
+                "disclaimer": "G\u00e6lder I perioden 6/12 - 19/12 2021",
+                "savePrice": true,
+                "savePricing": {
+                  "value": 85.8,
+                  "valueExVat": 68.64,
+                  "__typename": "Price"
+                },
+                "chainPricing": {
+                  "value": 429,
+                  "valueExVat": 343.2,
+                  "__typename": "Price"
+                },
+                "currentPricing": {
+                  "price": {
+                    "value": 343.2,
+                    "valueExVat": 274.56,
+                    "currency": "DKK",
+                    "__typename": "Price"
+                  },
+                  "cause": "None",
+                  "__typename": "CurrentPrice"
+                },
+                "clubPrice": {
+                  "value": null,
+                  "valueExVat": null,
+                  "__typename": "Price"
+                },
+                "imageFullUrl": "https://www.elgiganten.dk/image/dv_web_D180001002835868/361978/iphone-13-mini-gennemsigtigt-cover-med-magsafe.jpg",
+                "productPageUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltilbehor/mobilcovers/iphone-13-mini-gennemsigtigt-cover-med-magsafe/361978",
+                "productURL": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltilbehor/mobilcovers/iphone-13-mini-gennemsigtigt-cover-med-magsafe/361978",
+                "productURLB2B": null,
+                "numberOfReviews": 0,
+                "averageRating": 0,
+                "badgeUrl": "",
+                "releaseDate": null,
+                "onlineSalesStatus": "ACT",
+                "presaleDate": null,
+                "buyableOnline": true,
+                "buyableInternet": true,
+                "buyableCollectAtStore": true,
+                "cgm": "48750",
+                "brand": {
+                  "id": "498",
+                  "name": "Apple",
+                  "__typename": "Brand"
+                },
+                "productTaxonomy": [
+                  {
+                    "id": "PT101",
+                    "name": "Mobil, Tablet & Smartwatch",
+                    "path": "mobil-tablet-smartwatch",
+                    "__typename": "ProductTaxonomy"
+                  },
+                  {
+                    "id": "PT244",
+                    "name": "Mobiltilbeh\u00f8r",
+                    "path": "mobil-tablet-smartwatch/mobiltilbehor",
+                    "__typename": "ProductTaxonomy"
+                  },
+                  {
+                    "id": "PT245",
+                    "name": "Mobilcovers",
+                    "path": "mobil-tablet-smartwatch/mobiltilbehor/mobilcovers",
+                    "__typename": "ProductTaxonomy"
+                  }
+                ],
+                "__typename": "Product"
+              }
+            ],
+            "__typename": "ConditionData"
+          },
+          "__typename": "BundlePromotion"
+        },
+        {
+          "type": "BUNDLE",
+          "description": "Husk et cover til din Iphone ",
+          "iconUrl": "https://www.elgiganten.dk/content/DK/img/husk-tilbehor-281021-1dk.png",
+          "badgeUrl": "https://www.elgiganten.dk/content/DK/img/husk-tilbehor-281021-1dk.png",
+          "blockImageUrl": "https://www.elgiganten.dk/image/dv_web_D180001002834943/362186/iphone-13-mini-silikonecover-med-magsafe-midnight--pdp_zoom-3000--pdp_main-540.jpg",
+          "blockLinkUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltilbehor/mobilcovers/iphone-13-mini-silikonecover-med-magsafe-midnight/362186",
+          "cmsPageUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltilbehor/mobilcovers/iphone-13-mini-silikonecover-med-magsafe-midnight/362186",
+          "blockHeadline": "Husk et cover til din Iphone ",
+          "code": "DK_TELE_PROMOTION_362186_Iphone_13_ mini_midnight",
+          "bundlePrices": {
+            "bundlePriceBefore": {
+              "value": 343.2,
+              "valueExVat": 274.56,
+              "currency": "DKK",
+              "__typename": "Price"
+            },
+            "bundlePriceAfter": {
+              "value": 343.2,
+              "valueExVat": 274.56,
+              "currency": "DKK",
+              "__typename": "Price"
+            },
+            "bundleSaving": {
+              "value": 0,
+              "valueExVat": 0,
+              "currency": "DKK",
+              "__typename": "Price"
+            },
+            "bundleProductPrices": [
+              {
+                "articleNumber": "362186",
+                "activePricing": {
+                  "value": 343.2,
+                  "valueExVat": 274.56,
+                  "currency": "DKK",
+                  "__typename": "Price"
+                },
+                "beforePricing": {
+                  "value": 343.2,
+                  "valueExVat": 274.56,
+                  "currency": "DKK",
+                  "__typename": "Price"
+                },
+                "savePricing": {
+                  "value": 0,
+                  "valueExVat": 0,
+                  "currency": "DKK",
+                  "__typename": "Price"
+                },
+                "value": null,
+                "type": "",
+                "__typename": "BundleProductPrice"
+              }
+            ],
+            "__typename": "BundlePrices"
+          },
+          "conditionData": {
+            "articles": [
+              "362186"
+            ],
+            "categories": [
+              "promo-DK-telecom-Iphone-13 mini (midnight)-silikonecover"
+            ],
+            "products": [
+              {
+                "title": "iPhone 13 Mini silikonecover med MagSafe (midnight)",
+                "articleNumber": "362186",
+                "articleType": "ZHAW",
+                "beforePricing": {
+                  "value": 429,
+                  "valueExVat": 343.2,
+                  "__typename": "Price"
+                },
+                "disclaimer": "G\u00e6lder I perioden 6/12 - 19/12 2021",
+                "savePrice": true,
+                "savePricing": {
+                  "value": 85.8,
+                  "valueExVat": 68.64,
+                  "__typename": "Price"
+                },
+                "chainPricing": {
+                  "value": 429,
+                  "valueExVat": 343.2,
+                  "__typename": "Price"
+                },
+                "currentPricing": {
+                  "price": {
+                    "value": 343.2,
+                    "valueExVat": 274.56,
+                    "currency": "DKK",
+                    "__typename": "Price"
+                  },
+                  "cause": "None",
+                  "__typename": "CurrentPrice"
+                },
+                "clubPrice": {
+                  "value": null,
+                  "valueExVat": null,
+                  "__typename": "Price"
+                },
+                "imageFullUrl": "https://www.elgiganten.dk/image/dv_web_D180001002834943/362186/iphone-13-mini-silikonecover-med-magsafe-midnight.jpg",
+                "productPageUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltilbehor/mobilcovers/iphone-13-mini-silikonecover-med-magsafe-midnight/362186",
+                "productURL": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltilbehor/mobilcovers/iphone-13-mini-silikonecover-med-magsafe-midnight/362186",
+                "productURLB2B": null,
+                "numberOfReviews": 0,
+                "averageRating": 0,
+                "badgeUrl": "",
+                "releaseDate": null,
+                "onlineSalesStatus": "ACT",
+                "presaleDate": null,
+                "buyableOnline": true,
+                "buyableInternet": true,
+                "buyableCollectAtStore": true,
+                "cgm": "48750",
+                "brand": {
+                  "id": "498",
+                  "name": "Apple",
+                  "__typename": "Brand"
+                },
+                "productTaxonomy": [
+                  {
+                    "id": "PT101",
+                    "name": "Mobil, Tablet & Smartwatch",
+                    "path": "mobil-tablet-smartwatch",
+                    "__typename": "ProductTaxonomy"
+                  },
+                  {
+                    "id": "PT244",
+                    "name": "Mobiltilbeh\u00f8r",
+                    "path": "mobil-tablet-smartwatch/mobiltilbehor",
+                    "__typename": "ProductTaxonomy"
+                  },
+                  {
+                    "id": "PT245",
+                    "name": "Mobilcovers",
+                    "path": "mobil-tablet-smartwatch/mobiltilbehor/mobilcovers",
+                    "__typename": "ProductTaxonomy"
+                  }
+                ],
+                "__typename": "Product"
+              }
+            ],
+            "__typename": "ConditionData"
+          },
+          "__typename": "BundlePromotion"
+        },
+        {
+          "type": "BUNDLE",
+          "description": "Husk en oplader til din Iphone ",
+          "iconUrl": "https://www.elgiganten.dk/content/DK/img/husk-tilbehor-281021-1dk.png",
+          "badgeUrl": "https://www.elgiganten.dk/content/DK/img/husk-tilbehor-281021-1dk.png",
+          "blockImageUrl": "https://www.elgiganten.dk/image/dv_web_D180001002555751/235421/apple-20w-usb-c-vagoplader-hvid--pdp_zoom-3000--pdp_main-540.jpg",
+          "blockLinkUrl": "https://www.elgiganten.dk/product/services-tilbehor/batterier-opladning/oplader/apple-20w-usb-c-vagoplader-hvid/235421",
+          "cmsPageUrl": "https://www.elgiganten.dk/product/services-tilbehor/batterier-opladning/oplader/apple-20w-usb-c-vagoplader-hvid/235421",
+          "blockHeadline": "Husk en oplader til din Iphone",
+          "code": "DK_TELE_PROMOTION_235421_Apple_V\u00e6goplader",
+          "bundlePrices": {
+            "bundlePriceBefore": {
+              "value": 169,
+              "valueExVat": 135.2,
+              "currency": "DKK",
+              "__typename": "Price"
+            },
+            "bundlePriceAfter": {
+              "value": 169,
+              "valueExVat": 135.2,
+              "currency": "DKK",
+              "__typename": "Price"
+            },
+            "bundleSaving": {
+              "value": 0,
+              "valueExVat": 0,
+              "currency": "DKK",
+              "__typename": "Price"
+            },
+            "bundleProductPrices": [
+              {
+                "articleNumber": "235421",
+                "activePricing": {
+                  "value": 169,
+                  "valueExVat": 135.2,
+                  "currency": "DKK",
+                  "__typename": "Price"
+                },
+                "beforePricing": {
+                  "value": 169,
+                  "valueExVat": 135.2,
+                  "currency": "DKK",
+                  "__typename": "Price"
+                },
+                "savePricing": {
+                  "value": 0,
+                  "valueExVat": 0,
+                  "currency": "DKK",
+                  "__typename": "Price"
+                },
+                "value": null,
+                "type": "",
+                "__typename": "BundleProductPrice"
+              }
+            ],
+            "__typename": "BundlePrices"
+          },
+          "conditionData": {
+            "articles": [
+              "235421"
+            ],
+            "categories": [
+              "promo-DK-telecom-Apple-v\u00e6goplader"
+            ],
+            "products": [
+              {
+                "title": "Apple 20W USB-C v\u00e6goplader (hvid)",
+                "articleNumber": "235421",
+                "articleType": "ZHAW",
+                "beforePricing": {
+                  "value": null,
+                  "valueExVat": null,
+                  "__typename": "Price"
+                },
+                "disclaimer": null,
+                "savePrice": false,
+                "savePricing": null,
+                "chainPricing": null,
+                "currentPricing": {
+                  "price": {
+                    "value": 169,
+                    "valueExVat": 135.2,
+                    "currency": "DKK",
+                    "__typename": "Price"
+                  },
+                  "cause": "None",
+                  "__typename": "CurrentPrice"
+                },
+                "clubPrice": {
+                  "value": null,
+                  "valueExVat": null,
+                  "__typename": "Price"
+                },
+                "imageFullUrl": "https://www.elgiganten.dk/image/dv_web_D180001002555751/235421/apple-20w-usb-c-vagoplader-hvid.jpg",
+                "productPageUrl": "https://www.elgiganten.dk/product/services-tilbehor/batterier-opladning/oplader/apple-20w-usb-c-vagoplader-hvid/235421",
+                "productURL": "https://www.elgiganten.dk/product/services-tilbehor/batterier-opladning/oplader/apple-20w-usb-c-vagoplader-hvid/235421",
+                "productURLB2B": null,
+                "numberOfReviews": 0,
+                "averageRating": 0,
+                "badgeUrl": "",
+                "releaseDate": null,
+                "onlineSalesStatus": "ACT",
+                "presaleDate": null,
+                "buyableOnline": true,
+                "buyableInternet": true,
+                "buyableCollectAtStore": true,
+                "cgm": "48730",
+                "brand": {
+                  "id": "498",
+                  "name": "Apple",
+                  "__typename": "Brand"
+                },
+                "productTaxonomy": [
+                  {
+                    "id": "PT107",
+                    "name": "Services & tilbeh\u00f8r",
+                    "path": "services-tilbehor",
+                    "__typename": "ProductTaxonomy"
+                  },
+                  {
+                    "id": "PT1113",
+                    "name": "Batterier & opladning",
+                    "path": "services-tilbehor/batterier-opladning",
+                    "__typename": "ProductTaxonomy"
+                  },
+                  {
+                    "id": "PT247",
+                    "name": "Oplader",
+                    "path": "services-tilbehor/batterier-opladning/oplader",
+                    "__typename": "ProductTaxonomy"
+                  }
+                ],
+                "__typename": "Product"
+              }
+            ],
+            "__typename": "ConditionData"
+          },
+          "__typename": "BundlePromotion"
+        },
+        {
+          "type": "BUNDLE",
+          "description": "Husk en AirTag tracker til din Iphone ",
+          "iconUrl": "https://www.elgiganten.dk/content/DK/img/husk-tilbehor-281021-1dk.png",
+          "badgeUrl": "https://www.elgiganten.dk/content/DK/img/husk-tilbehor-281021-1dk.png",
+          "blockImageUrl": "https://www.elgiganten.dk/image/dv_web_D180001002738571/313269/airtag-tracker--pdp_zoom-3000--pdp_main-540.jpg",
+          "blockLinkUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltilbehor/gps-bluetooth-tracker/airtag-tracker/313269",
+          "cmsPageUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltilbehor/gps-bluetooth-tracker/airtag-tracker/313269",
+          "blockHeadline": "Husk en AirTag tracker til din Iphone ",
+          "code": "DK_TELE_PROMOTION_313269_Apple_AirTag_Tracker",
+          "bundlePrices": {
+            "bundlePriceBefore": {
+              "value": 249,
+              "valueExVat": 199.2,
+              "currency": "DKK",
+              "__typename": "Price"
+            },
+            "bundlePriceAfter": {
+              "value": 249,
+              "valueExVat": 199.2,
+              "currency": "DKK",
+              "__typename": "Price"
+            },
+            "bundleSaving": {
+              "value": 0,
+              "valueExVat": 0,
+              "currency": "DKK",
+              "__typename": "Price"
+            },
+            "bundleProductPrices": [
+              {
+                "articleNumber": "313269",
+                "activePricing": {
+                  "value": 249,
+                  "valueExVat": 199.2,
+                  "currency": "DKK",
+                  "__typename": "Price"
+                },
+                "beforePricing": {
+                  "value": 249,
+                  "valueExVat": 199.2,
+                  "currency": "DKK",
+                  "__typename": "Price"
+                },
+                "savePricing": {
+                  "value": 0,
+                  "valueExVat": 0,
+                  "currency": "DKK",
+                  "__typename": "Price"
+                },
+                "value": null,
+                "type": "",
+                "__typename": "BundleProductPrice"
+              }
+            ],
+            "__typename": "BundlePrices"
+          },
+          "conditionData": {
+            "articles": [
+              "313269"
+            ],
+            "categories": [
+              "promo-DK-telecom-Apple-AirTag-Tracker"
+            ],
+            "products": [
+              {
+                "title": "AirTag tracker",
+                "articleNumber": "313269",
+                "articleType": "ZHAW",
+                "beforePricing": {
+                  "value": null,
+                  "valueExVat": null,
+                  "__typename": "Price"
+                },
+                "disclaimer": null,
+                "savePrice": false,
+                "savePricing": null,
+                "chainPricing": null,
+                "currentPricing": {
+                  "price": {
+                    "value": 249,
+                    "valueExVat": 199.2,
+                    "currency": "DKK",
+                    "__typename": "Price"
+                  },
+                  "cause": "None",
+                  "__typename": "CurrentPrice"
+                },
+                "clubPrice": {
+                  "value": null,
+                  "valueExVat": null,
+                  "__typename": "Price"
+                },
+                "imageFullUrl": "https://www.elgiganten.dk/image/dv_web_D180001002738571/313269/airtag-tracker.jpg",
+                "productPageUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltilbehor/gps-bluetooth-tracker/airtag-tracker/313269",
+                "productURL": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltilbehor/gps-bluetooth-tracker/airtag-tracker/313269",
+                "productURLB2B": null,
+                "numberOfReviews": 3,
+                "averageRating": 3.6,
+                "badgeUrl": "",
+                "releaseDate": "2021-05-01T00:00:00Z",
+                "onlineSalesStatus": "ACT",
+                "presaleDate": "2021-04-23T00:00:00Z",
+                "buyableOnline": true,
+                "buyableInternet": true,
+                "buyableCollectAtStore": false,
+                "cgm": "48760",
+                "brand": {
+                  "id": "498",
+                  "name": "Apple",
+                  "__typename": "Brand"
+                },
+                "productTaxonomy": [
+                  {
+                    "id": "PT101",
+                    "name": "Mobil, Tablet & Smartwatch",
+                    "path": "mobil-tablet-smartwatch",
+                    "__typename": "ProductTaxonomy"
+                  },
+                  {
+                    "id": "PT244",
+                    "name": "Mobiltilbeh\u00f8r",
+                    "path": "mobil-tablet-smartwatch/mobiltilbehor",
+                    "__typename": "ProductTaxonomy"
+                  },
+                  {
+                    "id": "PT243",
+                    "name": "GPS & Bluetooth tracker",
+                    "path": "mobil-tablet-smartwatch/mobiltilbehor/gps-bluetooth-tracker",
+                    "__typename": "ProductTaxonomy"
+                  }
+                ],
+                "__typename": "Product"
+              }
+            ],
+            "__typename": "ConditionData"
+          },
+          "__typename": "BundlePromotion"
+        }
+      ],
+      "longDescription": "Takket v\u00e6re sin lille st\u00f8rrelse passer iPhone 13 mini smartphonen perfekt i lommen. Den tilbyder en stilst\u00e6rk konstruktion med high-tech-funktioner som 5G dataforbindelse og IP68-beskyttelse. Super Retina XDR-sk\u00e6rmen har en fremragende lysstyrke og klarhed, og A15 Bionic-processoren er klar til at h\u00e5ndtere selv de mest kr\u00e6vende opgaver.<br /><br /><strong>Klassisk design med god slidstyrke</strong><br />iPhone 13 mini har et klassisk design med en ramme i aluminium og en bagside i glas. For at sikre endnu h\u00f8jere slidstyrke for enhedens touchsk\u00e6rm har Apple arbejdet t\u00e6t sammen med Corning for at udvikle en revolutionerende glasteknologi \u2013 nemlig Ceramic Shield, som introducerer nanokeramiske krystaller i glas. Denne iPhone har ogs\u00e5 IP68 vurdering, s\u00e5 den er spildresistent og kan klare sig i op til 30 minutter p\u00e5 6 meters vanddybde.<br /><br /><strong>Super Retina XDR-sk\u00e6rm </strong><br />Super Retina XDR OLED touchsk\u00e6rmen str\u00e6kker sig fra kant til kant og tilbyder mere plads til indhold, mens telefonens dimensioner holdes p\u00e5 et niveau, hvor du stadig kan bruge den i \u00e9n h\u00e5nd. 2532\u00d7 1170 sk\u00e6rmopl\u00f8sningen med 476 ppi leverer et h\u00f8jt detaljeniveau samt True Tone- og HDR-teknologi for pr\u00e6cise farver. Med en maksimal lysstyrke p\u00e5 800 nits ved typisk brug og 1.200 nits til HDR-indhold kan alt ses klart og tydeligt p\u00e5 billederne, selv p\u00e5 en solskinsdag.<br /><br /><strong>Kraftfuld processor</strong><br />A15 Bionic processoren tilbyder en 6-core CPU med 2 ydelses- og 4 effektivitetskerner, samt en ny 4-kerne grafikprocessorenhed for en fremragende gaming- og multimedieoplevelse og en ny 16-core Neural Engine. Selvom det er en kraftfuld enhed, er den ogs\u00e5 enormt str\u00f8meffektiv takket v\u00e6re 5nm fremstillingsprocessen.<br /><br /><strong>Dual kamerasystem med Wide og Ultra Wide </strong><br />iPhone 13 mini har et fantastisk dual kamerasystem med et Ultra Wide kamera, der g\u00f8r det muligt at tage billeder og optage 4K videoer uden for rammen \u2013 en funktion der er perfekt til at tage billeder af landskaber, grupper, indretning og action. Ultra Wide-sensoren opfanger nu endnu flere detaljer i m\u00f8rke omr\u00e5der. Det andet kamera er et 12 MP vidvinkelkamera, der tager flot oplyste billeder, selv i lav belysning, takket v\u00e6re den nye Night-tilstand. Det har ogs\u00e5 en ny sensor-shift billedstabiliseringsfunktion for skarpe billeder, selv n\u00e5r h\u00e5nden ryster. Portr\u00e6ttilstanden med 6 effekter og Depth Control kan skabe mere naturlig bokeh og giver mere lyskontrol, s\u00e5 du altid kan tage flotte billeder.<br /><br /><strong>Cinematic-tilstand for professionelle videoer </strong><br />N\u00e5r du optager videoer, kan du drage fordel af den nye Cinematic-tilstand, som automatisk skifter fokus fra \u00e9t subjekt til et andet, hvilket skaber flotte dybdeeffekter og fokusovergange. Kameraet fornemmer ogs\u00e5, n\u00e5r et nyt subjekt tr\u00e6der ind i scenen og skifter fokus. Takket v\u00e6re iPhones gode processeringsegenskaber kan du endda justere dine optagelser, efter du har optaget dem. Denne teknik giver dig mulighed for at skabe mere professionelt indhold p\u00e5 din iPhone.<br /><br /><strong>TrueDepth frontkamera </strong><br />Det frontvendte TrueDepth 12 MP kamera kan bruges til fantastiske selfies og gruppebilleder, der er fulde af levende farver. Du kan endda bruge frontkameraet til at tage et slofie \u2013 et slow-motion selfie i h\u00f8j kvalitet.<br /><br /><strong>Next-generation Smart HDR 4</strong><br />Tag ultraskarpe billeder med Smart HDR 4, der bruger maskinl\u00e6ring til at maksimere potentialet for hvert billede og justerer lysstyrke, farver og hvidbalance. S\u00e5 du kan tage flotte billeder og videoer under alle lysforhold og med perfekt optagede hudtoner og teksturer.<br /><br /><strong>iOS 15</strong><br />iPhone 13 mini har forbedret iOS 15. Med SharePlay kan du tale p\u00e5 FaceTime mens du ser TV-serier og film, lytter til musik eller deler din sk\u00e6rm. Gittertilstanden viser personerne p\u00e5 FaceTime i samme st\u00f8rrelse, s\u00e5 du opn\u00e5r bedre gruppesamtaler. Notifikationerne er blevet designet p\u00e5 ny og viser nu st\u00f8rre kontaktfotos og app-ikoner, s\u00e5 det er nemmere at identificere dem.<br /><br /><strong>Flere funktioner:</strong><br />- 128 GB intern hukommelse<br />- Dual SIM-kompatibel med fysisk Nano SIM og virtuel eSIM<br />- Mere sikker Face ID<br />- Lynhurtigt WiFi 6, Bluetooth 5.0 og one-touch NFC parring<br />- MagSafe tr\u00e5dl\u00f8s opladning op til 15 W<br />- Qi tr\u00e5dl\u00f8s opladning op til 7,5 W <br /><br /><strong>I \u00e6sken: </strong><br />- iPhone 13 mini<br />- USB-C til Lightning-kabel<br />- Dokumentation<strong> </strong>",
+      "technicalInfo": {
+        "inTheBox": [],
+        "assets": [],
+        "__typename": "TechnicalInfoData"
+      },
+      "family": {
+        "name": "iPhone 13/13 Mini",
+        "group": [
+          {
+            "id": "30290",
+            "name": "Farve",
+            "size": 5,
+            "selectedValue": "Sort",
+            "products": [
+              {
+                "value": "Hvid",
+                "selected": false,
+                "unavailable": false,
+                "serviceLowestPrice": null,
+                "product": {
+                  "_id": "361835",
+                  "articleNumber": "361835",
+                  "title": "iPhone 13 mini \u2013 5G smartphone 128GB Starlight",
+                  "productPageUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltelefon/iphone-13-mini-5g-smartphone-128gb-starlight/361835",
+                  "__typename": "Product"
+                },
+                "__typename": "ProductFamilyValue"
+              },
+              {
+                "value": "Sort",
+                "selected": true,
+                "unavailable": false,
+                "serviceLowestPrice": null,
+                "product": {
+                  "_id": "361902",
+                  "articleNumber": "361902",
+                  "title": "iPhone 13 mini \u2013 5G smartphone 128GB Midnight",
+                  "productPageUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltelefon/iphone-13-mini-5g-smartphone-128gb-midnight/361902",
+                  "__typename": "Product"
+                },
+                "__typename": "ProductFamilyValue"
+              },
+              {
+                "value": "Bl\u00e5",
+                "selected": false,
+                "unavailable": false,
+                "serviceLowestPrice": null,
+                "product": {
+                  "_id": "361864",
+                  "articleNumber": "361864",
+                  "title": "iPhone 13 mini \u2013 5G smartphone 128GB Blue",
+                  "productPageUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltelefon/iphone-13-mini-5g-smartphone-128gb-blue/361864",
+                  "__typename": "Product"
+                },
+                "__typename": "ProductFamilyValue"
+              },
+              {
+                "value": "Pink",
+                "selected": false,
+                "unavailable": false,
+                "serviceLowestPrice": null,
+                "product": {
+                  "_id": "361875",
+                  "articleNumber": "361875",
+                  "title": "iPhone 13 mini \u2013 5G smartphone 128GB Pink",
+                  "productPageUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltelefon/iphone-13-mini-5g-smartphone-128gb-pink/361875",
+                  "__typename": "Product"
+                },
+                "__typename": "ProductFamilyValue"
+              },
+              {
+                "value": "R\u00f8d",
+                "selected": false,
+                "unavailable": false,
+                "serviceLowestPrice": null,
+                "product": {
+                  "_id": "361870",
+                  "articleNumber": "361870",
+                  "title": "iPhone 13 mini \u2013 5G smartphone 128GB (PRODUCT)RED\u00a0",
+                  "productPageUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltelefon/iphone-13-mini-5g-smartphone-128gb-productred/361870",
+                  "__typename": "Product"
+                },
+                "__typename": "ProductFamilyValue"
+              }
+            ],
+            "__typename": "ProductFamilyGroup"
+          },
+          {
+            "id": "30718",
+            "name": "Intern lagerplads (GB)",
+            "size": 3,
+            "selectedValue": "128",
+            "products": [
+              {
+                "value": "512",
+                "selected": false,
+                "unavailable": false,
+                "serviceLowestPrice": null,
+                "product": {
+                  "_id": "361904",
+                  "articleNumber": "361904",
+                  "title": "iPhone 13 mini \u2013 5G smartphone 512GB Midnight",
+                  "productPageUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltelefon/iphone-13-mini-5g-smartphone-512gb-midnight/361904",
+                  "__typename": "Product"
+                },
+                "__typename": "ProductFamilyValue"
+              },
+              {
+                "value": "256",
+                "selected": false,
+                "unavailable": false,
+                "serviceLowestPrice": null,
+                "product": {
+                  "_id": "361900",
+                  "articleNumber": "361900",
+                  "title": "iPhone 13 mini \u2013 5G smartphone 256GB Midnight",
+                  "productPageUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltelefon/iphone-13-mini-5g-smartphone-256gb-midnight/361900",
+                  "__typename": "Product"
+                },
+                "__typename": "ProductFamilyValue"
+              },
+              {
+                "value": "128",
+                "selected": true,
+                "unavailable": false,
+                "serviceLowestPrice": null,
+                "product": {
+                  "_id": "361902",
+                  "articleNumber": "361902",
+                  "title": "iPhone 13 mini \u2013 5G smartphone 128GB Midnight",
+                  "productPageUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltelefon/iphone-13-mini-5g-smartphone-128gb-midnight/361902",
+                  "__typename": "Product"
+                },
+                "__typename": "ProductFamilyValue"
+              }
+            ],
+            "__typename": "ProductFamilyGroup"
+          },
+          {
+            "id": "30879",
+            "name": "Modelnavn",
+            "size": 2,
+            "selectedValue": "iPhone 13 mini",
+            "products": [
+              {
+                "value": "iPhone 13 mini",
+                "selected": true,
+                "unavailable": false,
+                "serviceLowestPrice": null,
+                "product": {
+                  "_id": "361902",
+                  "articleNumber": "361902",
+                  "title": "iPhone 13 mini \u2013 5G smartphone 128GB Midnight",
+                  "productPageUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltelefon/iphone-13-mini-5g-smartphone-128gb-midnight/361902",
+                  "__typename": "Product"
+                },
+                "__typename": "ProductFamilyValue"
+              },
+              {
+                "value": "iPhone 13",
+                "selected": false,
+                "unavailable": false,
+                "serviceLowestPrice": null,
+                "product": {
+                  "_id": "361879",
+                  "articleNumber": "361879",
+                  "title": "iPhone 13 \u2013 5G smartphone 128GB Midnight",
+                  "productPageUrl": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/mobiltelefon/iphone-13-5g-smartphone-128gb-midnight/361879",
+                  "__typename": "Product"
+                },
+                "__typename": "ProductFamilyValue"
+              }
+            ],
+            "__typename": "ProductFamilyGroup"
+          }
+        ],
+        "__typename": "ProductFamilyContainer"
+      },
+      "subscriptionsRelevant": true,
+      "relevantSubscriptionTypes": [
+        "Telecom"
+      ],
+      "collectAtStore": null,
+      "hasAccessories": true,
+      "hasMarketplaceOffers": false,
+      "hasPCBenchmarking": false,
+      "hasServiceAndSupportArticles": true,
+      "hasSiblings": false,
+      "onlineRelevant": true,
+      "storeOnly": false,
+      "advertisingText": ""
+    }
+  }
+}
